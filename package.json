@@ -1,10 +1,22 @@
 {
-  "name": "mKD2Stz9WZqFzwLHXce5C0H0XTFnYZNp394yZNwYelrPZLFGe5",
+  "name": "ตรวจ หวย เกาหลี ย้อน หลัง ได้อย่างไร - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.48",
   "description": "ตรวจ หวย เกาหลี ย้อน หลัง เลขเด็ดงวดนี้ เท่ากับ ตรวจ หวย เกาหลี ย้อน หลัง Huaydee หวยออนไลน์ อันดับหนึ่ง ขอเสนอชุดเลขจาก หวยดีสุดยอด 1262 แจกฟรีชุดเลขเด่น ",
   "repository": "https://github.com/gullibles-02/overdoor-03",
-  "keywords": ["ตรวจ หวย เกาหลี ย้อน หลัง","ตรวจ","หวย","เกาหลี","ย้อน","หลัง","ตรวจ Huaydee","หวย Huaydee","เกาหลี Huaydee","ย้อน Huaydee","หลัง Huaydee"],
+  "keywords": [
+    "ตรวจ หวย เกาหลี ย้อน หลัง",
+    "ตรวจ",
+    "หวย",
+    "เกาหลี",
+    "ย้อน",
+    "หลัง",
+    "ตรวจ Huaydee",
+    "หวย Huaydee",
+    "เกาหลี Huaydee",
+    "ย้อน Huaydee",
+    "หลัง Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
