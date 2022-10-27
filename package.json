@@ -1,10 +1,13 @@
 {
-  "name": "TFpOMt0vRIQFw58IYWNlKGJMOBtBitlE6knWlfCynnk80R3l1i",
+  "name": "ผลหุ้นไทยวันนี้ เล่นยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.11",
   "description": "ผลหุ้นไทยวันนี้ เงินทุนไม่เกิน100ล้านบาทเวลา แต่ ผลหุ้นไทยวันนี้ Huaysod หวยออนไลน์ อันดับหนึ่ง ผลหุ้นไทยวันนี้ 1ปีกับอีกสี่เดือน...ดูกระทู้นี้คลิกระหว่างจ",
   "repository": "https://github.com/gullibles-02/overdoor-03",
-  "keywords": ["ผลหุ้นไทยวันนี้","ผลหุ้นไทยวันนี้ Huaysod"],
+  "keywords": [
+    "ผลหุ้นไทยวันนี้",
+    "ผลหุ้นไทยวันนี้ Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
