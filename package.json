@@ -1,10 +1,13 @@
 {
-  "name": "zSjfyRy4UiGl9XkUsQ4POpIoZ5gczLEN5dhkDurEnvwJCagoVh",
+  "name": "ลอตเตอรี่ คืออะไร - เว็บใหม่ ltobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.63",
   "description": "ลอตเตอรี่ เลขเด็ดเจ๊นุ๊ก โดย ลอตเตอรี่ Ltobet แอลทีโอ เบท หวยออนไลน์ มีหวยทุกชนิด หวยรัฐบาล งวดวันที่ 161164วันนี้เว็บ ซื้อหวยออนไลน์ เว็บหวยออนไลน์ที่ดีที",
   "repository": "https://github.com/gullibles-02/overdoor-03",
-  "keywords": ["ลอตเตอรี่","ลอตเตอรี่ Ltobet"],
+  "keywords": [
+    "ลอตเตอรี่",
+    "ลอตเตอรี่ Ltobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
